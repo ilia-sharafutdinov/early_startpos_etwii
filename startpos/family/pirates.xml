@@ -13,7 +13,7 @@
   <i>48</i>
   <i>49</i>
   <portrait_details card="ui/portraits/european/Cards/king/young/058.tga" info="ui/portraits/european/Info/king/young/058.jpg" number="58"/>
-  <s>rel_protestant</s>
+  <s>english</s>
   <u>585382808</u>
   <u>585382808</u>
   <loc/>
@@ -31,7 +31,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/Cards/queen/old/002.tga" info="ui/portraits/european/Info/queen/old/002.jpg" number="2"/>
-  <s>rel_protestant</s>
+  <s>english</s>
   <u>585382808</u>
   <u>0</u>
  </rec>
@@ -48,7 +48,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/Cards/king/young/077.tga" info="ui/portraits/european/Info/king/young/077.jpg" number="77"/>
-  <s>rel_protestant</s>
+  <s>english</s>
   <u>585382808</u>
   <u>0</u>
  </rec>
@@ -65,7 +65,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/Cards/king/young/043.tga" info="ui/portraits/european/Info/king/young/043.jpg" number="43"/>
-  <s>rel_protestant</s>
+  <s>english</s>
   <u>585382808</u>
   <u>0</u>
  </rec>
@@ -82,7 +82,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/Cards/queen/young/013.tga" info="ui/portraits/european/Info/queen/young/013.jpg" number="13"/>
-  <s>rel_protestant</s>
+  <s>english</s>
   <u>585382808</u>
   <u>0</u>
  </rec>
@@ -99,7 +99,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/Cards/king/young/024.tga" info="ui/portraits/european/Info/king/young/024.jpg" number="24"/>
-  <s>rel_protestant</s>
+  <s>english</s>
   <u>585382808</u>
   <u>0</u>
  </rec>
@@ -116,7 +116,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/Cards/king/young/005.tga" info="ui/portraits/european/Info/king/young/005.jpg" number="5"/>
-  <s>rel_protestant</s>
+  <s>english</s>
   <u>585382808</u>
   <u>585382808</u>
   <loc/>
@@ -134,7 +134,7 @@
   <i>48</i>
   <i>49</i>
   <portrait_details card="ui/portraits/european/Cards/king/young/085.tga" info="ui/portraits/european/Info/king/young/085.jpg" number="85"/>
-  <s>rel_protestant</s>
+  <s>english</s>
   <u>585382808</u>
   <u>585382808</u>
   <loc/>

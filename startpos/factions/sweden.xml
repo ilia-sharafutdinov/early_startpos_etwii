@@ -170,7 +170,7 @@
   <xml_include path="quadtree/sweden-sweden-0003.xml"/>
   <yes/>
  </rec>
- <s>rel_protestant</s><!-- Religion -->
+ <s>scandinavian</s><!-- Religion -->
  <yes/>
  <victory_conditions year="0" region_count="0" prestige_victory="no" campaign_type="4 (Unplayable)"/>
  <rec type="FORT_UPGRADE_MANAGER">

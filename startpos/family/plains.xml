@@ -13,7 +13,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/tribal/cards/king/old/005.tga" template="tribal/%S/king/%S/005.tga" info="ui/portraits/tribal/Info/king/old/005.tga" number="-1"/>
-  <s>rel_animist</s>
+  <s>native_americans</s>
   <u>583135800</u>
   <u>0</u>
  </rec>
@@ -115,7 +115,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/tribal/Cards/king/young/000.tga" info="ui/portraits/tribal/Info/king/young/000.jpg" number="0"/>
-  <s>rel_animist</s>
+  <s>native_americans</s>
   <u>583135800</u>
   <u>0</u>
  </rec>

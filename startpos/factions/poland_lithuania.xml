@@ -166,7 +166,7 @@
   <xml_include path="quadtree/poland_lithuania-poland_lithuania-0003.xml"/>
   <yes/>
  </rec>
- <s>rel_catholic</s><!-- Religion -->
+ <s>polish</s><!-- Religion -->
  <yes/>
  <victory_conditions year="0" region_count="0" prestige_victory="no" campaign_type="4 (Unplayable)"/>
  <rec type="FORT_UPGRADE_MANAGER">

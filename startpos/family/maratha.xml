@@ -13,7 +13,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/indian/cards/queen/young/058.tga" template="indian/%S/queen/%S/058.tga" info="ui/portraits/indian/Info/queen/young/058.tga" number="-1"/>
-  <s>rel_hindu</s>
+  <s>hindu_indians</s>
   <u>581007760</u>
   <u>0</u>
  </rec>
@@ -115,7 +115,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/indian/Cards/queen/young/092.tga" info="ui/portraits/indian/Info/queen/young/092.jpg" number="92"/>
-  <s>rel_hindu</s>
+  <s>hindu_indians</s>
   <u>581007760</u>
   <u>0</u>
  </rec>

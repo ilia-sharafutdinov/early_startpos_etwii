@@ -13,7 +13,7 @@
   <i>46</i>
   <i>47</i>
   <portrait_details card="ui/portraits/indian/Cards/king/young/051.tga" info="ui/portraits/indian/Info/king/young/051.jpg" number="51"/>
-  <s>rel_islamic</s>
+  <s>tatars</s>
   <u>584091464</u>
   <u>584091464</u>
   <loc/>
@@ -31,7 +31,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/indian/Cards/queen/old/054.tga" info="ui/portraits/indian/Info/queen/old/054.jpg" number="54"/>
-  <s>rel_islamic</s>
+  <s>tatars</s>
   <u>584091464</u>
   <u>0</u>
  </rec>
@@ -48,7 +48,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/indian/Cards/queen/young/047.tga" info="ui/portraits/indian/Info/queen/young/047.jpg" number="47"/>
-  <s>rel_islamic</s>
+  <s>tatars</s>
   <u>584091464</u>
   <u>0</u>
  </rec>
@@ -65,7 +65,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/indian/Cards/queen/young/058.tga" info="ui/portraits/indian/Info/queen/young/058.jpg" number="58"/>
-  <s>rel_islamic</s>
+  <s>tatars</s>
   <u>584091464</u>
   <u>0</u>
  </rec>
@@ -82,7 +82,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/indian/Cards/king/young/033.tga" info="ui/portraits/indian/Info/king/young/033.jpg" number="33"/>
-  <s>rel_islamic</s>
+  <s>tatars</s>
   <u>584091464</u>
   <u>0</u>
  </rec>
@@ -99,7 +99,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/indian/Cards/king/young/000.tga" info="ui/portraits/indian/Info/king/young/000.jpg" number="0"/>
-  <s>rel_islamic</s>
+  <s>tatars</s>
   <u>584091464</u>
   <u>0</u>
  </rec>
@@ -116,7 +116,7 @@
   <i>47</i>
   <i>48</i>
   <portrait_details card="ui/portraits/indian/Cards/king/young/040.tga" info="ui/portraits/indian/Info/king/young/040.jpg" number="40"/>
-  <s>rel_islamic</s>
+  <s>tatars</s>
   <u>584091464</u>
   <u>584091464</u>
   <loc/>
@@ -134,7 +134,7 @@
   <i>51</i>
   <i>52</i>
   <portrait_details card="ui/portraits/indian/Cards/king/young/080.tga" info="ui/portraits/indian/Info/king/young/080.jpg" number="80"/>
-  <s>rel_islamic</s>
+  <s>tatars</s>
   <u>584091464</u>
   <u>584091464</u>
   <loc/>

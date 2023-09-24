@@ -152,7 +152,7 @@
  <ary type="MORGUE"/>
  <u4_ary>585513976</u4_ary><!-- Governor ID For Each Theatre -->
  <no/>
- <s>rel_protestant</s><!-- Religion -->
+ <s>english</s><!-- Religion -->
  <no/>
  <rec type="FORT_UPGRADE_MANAGER">
   <ary type="FORT_UPGRADES_ARRAY"/>

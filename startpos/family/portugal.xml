@@ -13,7 +13,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/cards/king/old/028.tga" template="european/%S/king/%S/028.tga" info="ui/portraits/european/Info/king/old/028.tga" number="-1"/>
-  <s>rel_catholic</s>
+  <s>iberian</s>
   <u>583268040</u>
   <u>0</u>
  </rec>
@@ -115,7 +115,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/Cards/queen/young/027.tga" info="ui/portraits/european/Info/queen/young/027.jpg" number="27"/>
-  <s>rel_catholic</s>
+  <s>iberian</s>
   <u>583268040</u>
   <u>0</u>
  </rec>

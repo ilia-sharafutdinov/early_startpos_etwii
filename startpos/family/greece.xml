@@ -13,7 +13,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/Cards/king/young/016.tga" info="ui/portraits/european/Info/king/young/016.jpg" number="16"/>
-  <s>rel_orthodox</s>
+  <s>byzantine</s>
   <u>583822776</u>
   <u>583822776</u>
   <loc/>
@@ -31,7 +31,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/Cards/queen/young/070.tga" info="ui/portraits/european/Info/queen/young/070.jpg" number="70"/>
-  <s>rel_orthodox</s>
+  <s>byzantine</s>
   <u>583822776</u>
   <u>583822776</u>
   <loc/>
@@ -49,7 +49,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/Cards/queen/young/028.tga" info="ui/portraits/european/Info/queen/young/028.jpg" number="28"/>
-  <s>rel_orthodox</s>
+  <s>byzantine</s>
   <u>583822776</u>
   <u>0</u>
  </rec>
@@ -117,7 +117,7 @@
   <i>47</i>
   <i>48</i>
   <portrait_details card="ui/portraits/european/Cards/king/young/008.tga" info="ui/portraits/european/Info/king/young/008.jpg" number="8"/>
-  <s>rel_orthodox</s>
+  <s>byzantine</s>
   <u>583822776</u>
   <u>583822776</u>
   <loc/>
@@ -135,7 +135,7 @@
   <i>52</i>
   <i>53</i>
   <portrait_details card="ui/portraits/european/Cards/king/old/070.tga" info="ui/portraits/european/Info/king/old/070.jpg" number="70"/>
-  <s>rel_orthodox</s>
+  <s>byzantine</s>
   <u>583822776</u>
   <u>583822776</u>
   <loc/>
@@ -153,7 +153,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/Cards/king/young/030.tga" info="ui/portraits/european/Info/king/young/030.jpg" number="30"/>
-  <s>rel_orthodox</s>
+  <s>byzantine</s>
   <u>583822776</u>
   <u>583822776</u>
   <loc/>

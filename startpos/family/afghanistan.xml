@@ -13,7 +13,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/indian/Cards/king/young/037.tga" info="ui/portraits/indian/Info/king/young/037.jpg" number="37"/>
-  <s>rel_islamic</s>
+  <s>levantine</s>
   <u>584680376</u>
   <u>584680376</u>
   <loc/>
@@ -31,7 +31,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/indian/Cards/queen/young/070.tga" info="ui/portraits/indian/Info/queen/young/070.jpg" number="70"/>
-  <s>rel_islamic</s>
+  <s>levantine</s>
   <u>584680376</u>
   <u>584680376</u>
   <loc/>
@@ -49,7 +49,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/indian/Cards/king/young/079.tga" info="ui/portraits/indian/Info/king/young/079.jpg" number="79"/>
-  <s>rel_islamic</s>
+  <s>levantine</s>
   <u>584680376</u>
   <u>0</u>
  </rec>
@@ -66,7 +66,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/indian/Cards/king/young/006.tga" info="ui/portraits/indian/Info/king/young/006.jpg" number="6"/>
-  <s>rel_islamic</s>
+  <s>levantine</s>
   <u>584680376</u>
   <u>0</u>
  </rec>
@@ -117,7 +117,7 @@
   <i>46</i>
   <i>47</i>
   <portrait_details card="ui/portraits/indian/Cards/king/young/077.tga" info="ui/portraits/indian/Info/king/young/077.jpg" number="77"/>
-  <s>rel_islamic</s>
+  <s>levantine</s>
   <u>584680376</u>
   <u>584680376</u>
   <loc/>
@@ -135,7 +135,7 @@
   <i>35</i>
   <i>37</i>
   <portrait_details card="ui/portraits/indian/Cards/king/young/052.tga" info="ui/portraits/indian/Info/king/young/052.jpg" number="52"/>
-  <s>rel_islamic</s>
+  <s>levantine</s>
   <u>584680376</u>
   <u>584680376</u>
   <loc/>
@@ -153,7 +153,7 @@
   <i>35</i>
   <i>37</i>
   <portrait_details card="ui/portraits/indian/Cards/king/young/031.tga" info="ui/portraits/indian/Info/king/young/031.jpg" number="31"/>
-  <s>rel_islamic</s>
+  <s>levantine</s>
   <u>584680376</u>
   <u>584680376</u>
   <loc/>
@@ -171,7 +171,7 @@
   <i>35</i>
   <i>37</i>
   <portrait_details card="ui/portraits/indian/Cards/king/young/064.tga" info="ui/portraits/indian/Info/king/young/064.jpg" number="64"/>
-  <s>rel_islamic</s>
+  <s>levantine</s>
   <u>584680376</u>
   <u>584680376</u>
   <loc/>

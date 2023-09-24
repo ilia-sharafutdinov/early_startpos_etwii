@@ -13,7 +13,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/Cards/king/young/078.tga" info="ui/portraits/european/Info/king/young/078.jpg" number="78"/>
-  <s>rel_protestant</s>
+  <s>american</s>
   <u>584233480</u>
   <u>584233480</u>
   <loc/>
@@ -31,7 +31,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/Cards/queen/young/091.tga" info="ui/portraits/european/Info/queen/young/091.jpg" number="91"/>
-  <s>rel_protestant</s>
+  <s>american</s>
   <u>584233480</u>
   <u>584233480</u>
   <loc/>
@@ -49,7 +49,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/Cards/queen/young/009.tga" info="ui/portraits/european/Info/queen/young/009.jpg" number="9"/>
-  <s>rel_protestant</s>
+  <s>american</s>
   <u>584233480</u>
   <u>0</u>
  </rec>
@@ -117,7 +117,7 @@
   <i>47</i>
   <i>48</i>
   <portrait_details card="ui/portraits/european/Cards/king/young/097.tga" info="ui/portraits/european/Info/king/young/097.jpg" number="97"/>
-  <s>rel_protestant</s>
+  <s>american</s>
   <u>584233480</u>
   <u>584233480</u>
   <loc/>
@@ -135,7 +135,7 @@
   <i>47</i>
   <i>48</i>
   <portrait_details card="ui/portraits/european/Cards/king/young/096.tga" info="ui/portraits/european/Info/king/young/096.jpg" number="96"/>
-  <s>rel_protestant</s>
+  <s>american</s>
   <u>584233480</u>
   <u>584233480</u>
   <loc/>
@@ -153,7 +153,7 @@
   <i>48</i>
   <i>49</i>
   <portrait_details card="ui/portraits/european/Cards/king/young/044.tga" info="ui/portraits/european/Info/king/young/044.jpg" number="44"/>
-  <s>rel_protestant</s>
+  <s>american</s>
   <u>584233480</u>
   <u>584233480</u>
   <loc/>

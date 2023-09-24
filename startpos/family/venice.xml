@@ -13,7 +13,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/Cards/king/young/002.tga" info="ui/portraits/european/Info/king/young/002.jpg" number="2"/>
-  <s>rel_catholic</s>
+  <s>latin</s>
   <u>583492000</u>
   <u>583492000</u>
   <loc/>
@@ -31,7 +31,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/Cards/queen/young/034.tga" info="ui/portraits/european/Info/queen/young/034.jpg" number="34"/>
-  <s>rel_catholic</s>
+  <s>latin</s>
   <u>583492000</u>
   <u>583492000</u>
   <loc/>
@@ -117,7 +117,7 @@
   <i>48</i>
   <i>49</i>
   <portrait_details card="ui/portraits/european/Cards/king/young/061.tga" info="ui/portraits/european/Info/king/young/061.jpg" number="61"/>
-  <s>rel_catholic</s>
+  <s>latin</s>
   <u>583492000</u>
   <u>583492000</u>
   <loc/>
@@ -135,7 +135,7 @@
   <i>46</i>
   <i>47</i>
   <portrait_details card="ui/portraits/european/Cards/king/young/066.tga" info="ui/portraits/european/Info/king/young/066.jpg" number="66"/>
-  <s>rel_catholic</s>
+  <s>latin</s>
   <u>583492000</u>
   <u>583492000</u>
   <loc/>
@@ -153,7 +153,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/Cards/king/young/009.tga" info="ui/portraits/european/Info/king/young/009.jpg" number="9"/>
-  <s>rel_catholic</s>
+  <s>latin</s>
   <u>583492000</u>
   <u>0</u>
  </rec>
@@ -170,7 +170,7 @@
   <i>0</i>
   <i>0</i>
   <portrait_details card="ui/portraits/european/Cards/king/young/047.tga" info="ui/portraits/european/Info/king/young/047.jpg" number="47"/>
-  <s>rel_catholic</s>
+  <s>latin</s>
   <u>583492000</u>
   <u>0</u>
  </rec>
