@@ -104,14 +104,37 @@
   <i>0</i>
   <u>4278190080</u><!-- 2147548928 or 2164260608 -->
   <religion_breakdown>
-   rel_hindu=0.85
-   rel_nonconformist=0.0
+   rel_hindu=0.0
+   english=0.0
+   celtic=0.0
+   scandinavian=0.0
+   baltic=0.0
+   russian=0.0
+   tatars=0.0
+   caucasian=0.0
+   french=0.0
+   latin=0.0
+   iberian=0.0
+   maghrebi=0.0
+   polish=0.0
+   hungarians=0.0
+   byzantine=0.0
+   levantine=0.0
+   iranian=0.0
+   sikh=0.0
+   hindu_indians=0.85
+   islam_indians=0.1
+   buddhist_indians=0.05
+   native_americans=0.0
+   germans=0.0
+   flemish=0.0
+   dutch=0.0
    rel_sikh=0.0
    rel_animist=0.0
    rel_orthodox=0.0
-   rel_buddhist=0.05
+   rel_buddhist=0.0
    rel_catholic=0.0
-   rel_islamic=0.1
+   rel_islamic=0.0
    rel_protestant=0.0
   </religion_breakdown>
  </rec>
