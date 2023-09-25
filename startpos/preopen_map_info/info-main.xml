@@ -845,7 +845,7 @@
   </ary>
  </rec>
  <date>summer 1700</date>
- <s>main</s>
+ <s>e_etwii</s>
  <s>global_map</s>
  <ary type="VICTORY_CONDITION_OPTIONS">
   <xml_include path="victory_conditions/ottomans.xml"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <rec type="CAMPAIGN_SETUP">
- <s>main</s>
+ <s>e_etwii</s>
  <rec type="CAMPAIGN_PLAYERS_SETUP">
   <ary type="PLAYERS_ARRAY">
    <rec type="PLAYERS_ARRAY">
