@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rec type="CAI_WORLD_RESOURCE_MOBILES">
  <owned_direct>1289</owned_direct><!-- Faction AI ID -->
- <cai_situated x="217.97994995117188" y="359.1956787109375" region_id="805" theatre_id="34" area_id="13"/>
+ <cai_situated x="222.50129508972168" y="372.180926322937" region_id="833" theatre_id="34" area_id="13"/>
  <rec type="CAI_BDI_COMPONENT_PROPERTY_SET">
   <u>0</u>
  </rec>
@@ -45,7 +45,7 @@
  <no/>
  <rec type="CAI_RESOURCE_MOBILE">
   <u>5863</u><!-- Character AI ID -->
-  <u>2333</u><!-- Settlement AI ID -->
+  <u>0</u><!-- Settlement AI ID -->
   <u>0</u><!-- Settlement Character AI ID -->
   <ary type="CAI_RESOURCE_MOBILE_SIEGE_INFORMATION"/>
   <u4_ary>5863</u4_ary><!-- Character AI IDs -->

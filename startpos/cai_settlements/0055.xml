@@ -29,7 +29,7 @@
  <u>0</u>
  <no/>
  <rec type="CAI_GARRISONABLE">
-  <u>5864</u><!-- Character Resource AI ID -->
+  <u/><!-- Character Resource AI ID -->
   <u>0</u>
   <u4_ary/><!-- Character Resource AI IDs -->
   <u4_ary/>

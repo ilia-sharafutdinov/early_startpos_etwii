@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rec type="CAI_WORLD_RESOURCE_MOBILES">
  <owned_direct>1289</owned_direct><!-- Faction AI ID -->
- <cai_situated x="235.72000122070312" y="366.0400085449219" region_id="805" theatre_id="34" area_id="13"/>
+ <cai_situated x="235.0126247406006" y="372.0467014312744" region_id="833" theatre_id="34" area_id="13"/>
  <rec type="CAI_BDI_COMPONENT_PROPERTY_SET">
   <u>0</u>
  </rec>

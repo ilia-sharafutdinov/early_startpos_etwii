@@ -2,8 +2,8 @@
 <rec type="CHARACTER_ARRAY">
  <rec type="CHARACTER">
   <rec type="LOCOMOTABLE">
-   <v2x x="235.72000122070312" y="366.0400085449219"/>
-   <v2x x="235.72000122070312" y="366.0400085449219"/>
+   <v2x x="235.0126247406006" y="372.0467014312744"/>
+   <v2x x="235.0126247406006" y="372.0467014312744"/>
    <flt>3.1415927410125732</flt><!-- Character Facing Direction -->
    <flt>3.1415927410125732</flt><!-- Character Facing Direction -->
    <flt>0.0</flt>
