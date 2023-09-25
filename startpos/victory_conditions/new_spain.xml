@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<rec type="VICTORY_CONDITION_OPTIONS">
+ <s>new_spain</s>
+ <ary type="VICTORY_CONDITIONS_BLOCK">
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="50" prestige_victory="no" campaign_type="1 (Long)">
+    new_andalusia
+    guatemala
+    new_spain
+    panama
+    tejas
+    trinidad_tobago
+    jamaica
+    bahamas
+    dutch_guyana
+    new_grenada
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1750" region_count="20" prestige_victory="no" campaign_type="0 (Short)">
+    new_andalusia
+    guatemala
+    new_spain
+    panama
+    tejas
+    new_grenada
+    jamaica
+    trinidad_tobago
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="20" prestige_victory="yes" campaign_type="2 (Prestige)">
+    new_andalusia
+    guatemala
+    new_spain
+    panama
+    tejas
+    new_grenada
+    jamaica
+    trinidad_tobago
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="40" prestige_victory="no" campaign_type="3 (Global Domination)">
+    new_spain
+   </victory_conditions>
+  </rec>
+ </ary>
+</rec>

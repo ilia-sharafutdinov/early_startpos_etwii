@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<rec type="VICTORY_CONDITION_OPTIONS">
+ <s>morocco</s>
+ <ary type="VICTORY_CONDITIONS_BLOCK">
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1750" region_count="10" prestige_victory="no" campaign_type="0 (Short)">
+    morocco
+    malta
+    spain
+    portugal
+    tunis
+    egypt
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="20" prestige_victory="no" campaign_type="1 (Long)">
+    morocco
+    malta
+    spain
+    portugal
+    tunis
+    egypt
+    sardinia
+    naples
+    syria
+    mesopotamia
+    anatolia
+    rumelia
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="10" prestige_victory="yes" campaign_type="2 (Prestige)">
+    morocco
+    malta
+    spain
+    portugal
+    tunis
+    egypt
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="35" prestige_victory="no" campaign_type="3 (Global Domination)">
+    morocco
+   </victory_conditions>
+  </rec>
+ </ary>
+</rec>

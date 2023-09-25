@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<rec type="VICTORY_CONDITION_OPTIONS">
+ <s>venice</s>
+ <ary type="VICTORY_CONDITIONS_BLOCK">
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1750" region_count="15" prestige_victory="no" campaign_type="0 (Short)">
+    the_papal_states
+    savoy
+    genoa
+    serbia
+    venice
+    corsica
+    bosnia
+    greece
+    morea
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="15" prestige_victory="yes" campaign_type="2 (Prestige)">
+    the_papal_states
+    savoy
+    genoa
+    serbia
+    venice
+    corsica
+    bosnia
+    greece
+    morea
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="25" prestige_victory="no" campaign_type="1 (Long)">
+    the_papal_states
+    savoy
+    genoa
+    milan
+    venice
+    corsica
+    sardinia
+    naples
+    malta
+    rumelia
+    serbia
+    greece
+    morea
+    bosnia
+    austria
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="35" prestige_victory="no" campaign_type="3 (Global Domination)">
+    venice
+   </victory_conditions>
+  </rec>
+ </ary>
+</rec>

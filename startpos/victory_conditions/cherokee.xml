@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<rec type="VICTORY_CONDITION_OPTIONS">
+ <s>cherokee</s>
+ <ary type="VICTORY_CONDITIONS_BLOCK">
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="25" prestige_victory="no" campaign_type="1 (Long)">
+    cherokee_territory
+    georgia_usa
+    kaintuck_territory
+    virginia
+    new_york
+    carolinas
+    florida
+    pennsylvania
+    upper_louisiana
+    lower_louisiana
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1750" region_count="15" prestige_victory="no" campaign_type="0 (Short)">
+    cherokee_territory
+    virginia
+    new_york
+    carolinas
+    florida
+    pennsylvania
+    upper_louisiana
+    lower_louisiana
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="20" prestige_victory="yes" campaign_type="2 (Prestige)">
+    cherokee_territory
+    virginia
+    new_york
+    carolinas
+    florida
+    pennsylvania
+    upper_louisiana
+    lower_louisiana
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="35" prestige_victory="no" campaign_type="3 (Global Domination)">
+    cherokee_territory
+   </victory_conditions>
+  </rec>
+ </ary>
+</rec>

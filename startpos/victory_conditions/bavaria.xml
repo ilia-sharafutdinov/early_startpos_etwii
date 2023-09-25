@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<rec type="VICTORY_CONDITION_OPTIONS">
+ <s>bavaria</s>
+ <ary type="VICTORY_CONDITIONS_BLOCK">
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="20" prestige_victory="no" campaign_type="1 (Long)">
+    austria
+    west_pommerania
+    rhineland
+    hannover
+    wurttemberg
+    bavaria
+    alsace
+    saxony
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1750" region_count="10" prestige_victory="no" campaign_type="0 (Short)">
+    west_pommerania
+    austria
+    wurttemberg
+    rhineland
+    bavaria
+    hannover
+    saxony
+    alsace
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="10" prestige_victory="yes" campaign_type="2 (Prestige)">
+    west_pommerania
+    austria
+    wurttemberg
+    rhineland
+    bavaria
+    hannover
+    saxony
+    alsace
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="30" prestige_victory="no" campaign_type="3 (Global Domination)">
+    bavaria
+   </victory_conditions>
+  </rec>
+ </ary>
+</rec>

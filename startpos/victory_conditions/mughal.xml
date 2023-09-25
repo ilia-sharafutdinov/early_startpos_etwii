@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<rec type="VICTORY_CONDITION_OPTIONS">
+ <s>mughal</s>
+ <ary type="VICTORY_CONDITIONS_BLOCK">
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="30" prestige_victory="no" campaign_type="1 (Long)">
+    mysore
+    bijapur
+    punjab
+    carnatica
+    ahmadnagar
+    orissa
+    malabar
+    bengal
+    hyderabad
+    malwa
+    ceylon
+    hindustan
+    berar
+    gujarat
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1750" region_count="20" prestige_victory="no" campaign_type="0 (Short)">
+    gujarat
+    hindustan
+    hyderabad
+    malabar
+    malwa
+    bijapur
+    berar
+    carnatica
+    mysore
+    ahmadnagar
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="20" prestige_victory="yes" campaign_type="2 (Prestige)">
+    gujarat
+    hindustan
+    hyderabad
+    malabar
+    malwa
+    bijapur
+    berar
+    carnatica
+    mysore
+    ahmadnagar
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="50" prestige_victory="no" campaign_type="3 (Global Domination)">
+    hindustan
+   </victory_conditions>
+  </rec>
+ </ary>
+</rec>

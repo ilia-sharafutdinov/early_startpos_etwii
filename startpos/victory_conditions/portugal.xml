@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<rec type="VICTORY_CONDITION_OPTIONS">
+ <s>portugal</s>
+ <ary type="VICTORY_CONDITIONS_BLOCK">
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1750" region_count="10" prestige_victory="no" campaign_type="0 (Short)">
+    portugal
+    french_guyana
+    gibraltar
+    trinidad_tobago
+    morocco
+    spain
+    carnatica
+    bijapur
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="20" prestige_victory="no" campaign_type="1 (Long)">
+    portugal
+    french_guyana
+    dutch_guyana
+    morocco
+    gibraltar
+    carnatica
+    tunis
+    curacao
+    cuba
+    trinidad_tobago
+    bijapur
+    spain
+    mysore
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="10" prestige_victory="yes" campaign_type="2 (Prestige)">
+    portugal
+    french_guyana
+    trinidad_tobago
+    gibraltar
+    morocco
+    spain
+    carnatica
+    bijapur
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="30" prestige_victory="no" campaign_type="3 (Global Domination)">
+    portugal
+   </victory_conditions>
+  </rec>
+ </ary>
+</rec>

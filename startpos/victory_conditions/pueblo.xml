@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<rec type="VICTORY_CONDITION_OPTIONS">
+ <s>pueblo</s>
+ <ary type="VICTORY_CONDITIONS_BLOCK">
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="25" prestige_victory="no" campaign_type="1 (Long)">
+    tejas
+    new_spain
+    new_grenada
+    virginia
+    new_mexico
+    carolinas
+    florida
+    pennsylvania
+    upper_louisiana
+    lower_louisiana
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1750" region_count="15" prestige_victory="no" campaign_type="0 (Short)">
+    tejas
+    virginia
+    new_spain
+    carolinas
+    florida
+    new_grenada
+    upper_louisiana
+    lower_louisiana
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="20" prestige_victory="yes" campaign_type="2 (Prestige)">
+    tejas
+    virginia
+    new_spain
+    carolinas
+    florida
+    new_grenada
+    upper_louisiana
+    lower_louisiana
+   </victory_conditions>
+  </rec>
+  <rec type="VICTORY_CONDITIONS_BLOCK">
+   <victory_conditions year="1799" region_count="35" prestige_victory="no" campaign_type="3 (Global Domination)">
+    tejas
+   </victory_conditions>
+  </rec>
+ </ary>
+</rec>
