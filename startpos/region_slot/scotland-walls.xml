@@ -25,7 +25,7 @@
   </rec>
   <rec type="BUILDING_MANAGER">
    <yes/>
-   <building health="100" name="settlement_fortifications" faction="scotland" government="gov_absolute_monarchy"/>
+   <building health="100" name="city" faction="scotland" government="gov_absolute_monarchy"/>
    <no/>
   </rec>
   <u>587291328</u><!-- Building Slot ID -->
