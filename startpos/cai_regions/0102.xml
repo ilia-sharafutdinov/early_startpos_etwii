@@ -40,7 +40,7 @@
   <u4_ary>5846 5864</u4_ary><!-- Character Resource AI IDs -->
   <s>ukraine</s><!-- Region Name -->
   <u>586085232</u><!-- Region ID -->
-  <u>7474</u><!-- Governor AI ID -->
-  <u4_ary/><!-- Faction AI IDs -->
+  <u>99910058</u><!-- Governor AI ID -->
+  <u4_ary>1415</u4_ary><!-- Faction AI IDs -->
  </rec>
 </rec>

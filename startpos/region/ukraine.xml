@@ -33,16 +33,16 @@
  <u>0</u>
  <u>0</u>
  <no/><!-- Exempt From Tax -->
- <u>581507672</u><!-- Controlling Faction ID -->
+ <u>583887784</u><!-- Controlling Faction ID -->
  <rec type="LINE_OF_SIGHT">
   <yes/>
   <v2 x="202.5" y="333.75"/>
   <v2 x="290.0" y="383.75"/>
   <xml_include path="quadtree/ukraine-0001.xml"/>
  </rec>
- <u>585526040</u><!-- Governor ID -->
+ <u>9910058</u><!-- Governor ID -->
  <s>europe</s><!-- Theatre -->
- <s>slavic_rebels</s><!-- Emergent Nation -->
+ <s>hessen</s><!-- Emergent Nation -->
  <s>Ukrainian Rebels</s><!-- Region Rebels -->
  <s>sc_european_east</s><!-- Region Culture For Types Of Buildings -->
  <rec type="REGION_RECRUITMENT_MANAGER">

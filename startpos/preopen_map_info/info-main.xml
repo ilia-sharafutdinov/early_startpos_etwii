@@ -1012,7 +1012,7 @@
    <i>12</i>
    <s>start_pos_factions_description_53</s>
    <s>data\ui\flags\russia</s>
-   <i>9</i>
+   <i>8</i>
   </rec>
   <rec type="FACTION_INFOS">
    <s>sweden</s>
@@ -1396,13 +1396,13 @@
   </rec>
   <rec type="FACTION_INFOS">
    <s>hessen</s>
-   <s/>
+   <s>ui/portraits/european/Cards/king/young/045.tga</s>
    <no/>
    <no/>
    <i>51</i>
    <s>start_pos_factions_description_1076472315</s>
    <s>data\ui\flags\hessen</s>
-   <i>0</i>
+   <i>1</i>
   </rec>
   <rec type="FACTION_INFOS">
    <s>quebec</s>
@@ -1523,7 +1523,7 @@
    milan=spain
    muscovy=russia
    galicia=poland_lithuania
-   ukraine=russia
+   ukraine=hessen
    west_pommerania=prussia
    west_prussia=poland_lithuania
    wurttemberg=wurttemberg

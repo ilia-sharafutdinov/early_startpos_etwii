@@ -28,7 +28,7 @@
  <u>0</u>
  <no/>
  <rec type="CAI_FACTION">
-  <u4_ary>722 760 763 805 833 839 865 887 898</u4_ary><!-- Region AI ID Of Regions Owned By This Faction -->
+  <u4_ary>722 760 763 833 839 865 887 898</u4_ary><!-- Region AI ID Of Regions Owned By This Faction -->
   <u4_ary>34</u4_ary><!-- Theatre IDs -->
   <u4_ary>13</u4_ary><!-- HLCIS IDs -->
   <u4_ary>5846 5854 5862 5864 5869 5874 5876 5879</u4_ary><!-- Character Resource AI IDs -->
