@@ -122,11 +122,20 @@
  <yes/>
  <xml_include path="unit_name_alloc/scotland-naval-0001.xml"/>
  <no/><!-- True - Major, False - Minor -->
- <ary type="CHARACTER_ARRAY"/>
+ <ary type="CHARACTER_ARRAY">
+  <xml_include path="character/scotland-minister-0001.xml"/>
+  <xml_include path="character/scotland-minister-0002.xml"/>
+  <xml_include path="character/scotland-minister-0003.xml"/>
+  <xml_include path="character/scotland-minister-0004.xml"/>
+  <xml_include path="character/scotland-minister-0005.xml"/>
+  <xml_include path="character/scotland-minister-0006.xml"/>
+  <xml_include path="character/scotland-minister-0007.xml"/>
+  <xml_include path="character/scotland-minister-0008.xml"/>
+ </ary>
  <xml_include path="technology/scotland-scotland.xml"/>
  <ary type="ARMY_ARRAY"/>
  <ary type="MORGUE"/>
- <u4_ary/><!-- Governor ID For Each Theatre -->
+ <u4_ary>9910008</u4_ary><!-- Governor ID For Each Theatre -->
  <no/>
  <s>celtic</s><!-- Religion -->
  <no/>
@@ -136,8 +145,8 @@
  <rec type="FORT_UPGRADE_MANAGER">
   <ary type="FORT_REPAIRS_ARRAY"/>
  </rec>
- <i>0</i><!-- Current Capital ID Else 0 If Faction Destroyed -->
- <i>0</i><!-- Original Capital ID -->
+ <i>587285112</i><!-- Current Capital ID Else 0 If Faction Destroyed -->
+ <i>587285112</i><!-- Original Capital ID -->
  <ary type="EXPOSED_CHARACTERS"/>
  <no/>
  <rec type="PRESTIGE">
@@ -152,7 +161,7 @@
   <u>0</u>
   <u>0</u>
  </rec>
- <yes/><!-- Emergent -->
+ <no/><!-- Emergent -->
  <u>0</u>
  <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
  <i>0</i><!-- Army Upkeep -->

@@ -93,7 +93,7 @@
     <rec type="GOVERNORSHIP">
      <gov_taxes level_lower="2" level_upper="2" rate_lower="15" rate_upper="15"/>
      <i>586390992</i><!-- Governor ID -->
-     <u4_ary>586371056 586886520 587285112</u4_ary><!-- Region IDs -->
+     <u4_ary>586371056 586886520</u4_ary><!-- Region IDs -->
      <u>580018960</u><!-- Faction ID -->
      <no/>
      <no/>

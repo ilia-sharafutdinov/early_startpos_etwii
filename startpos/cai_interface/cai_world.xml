@@ -4448,6 +4448,14 @@
   <xml_include path="cai_characters/0786.xml"/>
   <xml_include path="cai_characters/0787.xml"/>
   <xml_include path="cai_characters/0788.xml"/>
+  <xml_include path="cai_characters/0789.xml"/>
+  <xml_include path="cai_characters/0790.xml"/>
+  <xml_include path="cai_characters/0791.xml"/>
+  <xml_include path="cai_characters/0792.xml"/>
+  <xml_include path="cai_characters/0793.xml"/>
+  <xml_include path="cai_characters/0794.xml"/>
+  <xml_include path="cai_characters/0795.xml"/>
+  <xml_include path="cai_characters/0796.xml"/>
  </ary>
  <ary type="CAI_WORLD_FORTS">
   <xml_include path="cai_forts/0001.xml"/>
@@ -6342,6 +6350,7 @@
   <xml_include path="cai_governorships/0047.xml"/>
   <xml_include path="cai_governorships/0048.xml"/>
   <xml_include path="cai_governorships/0049.xml"/>
+  <xml_include path="cai_governorships/0050.xml"/>
  </ary>
  <ary type="CAI_WORLD_TRANSITION_AREAS">
   <xml_include path="cai_transition_areas/0001.xml"/>

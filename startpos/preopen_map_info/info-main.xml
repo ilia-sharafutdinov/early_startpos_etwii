@@ -902,7 +902,7 @@
    <i>1</i>
    <s>start_pos_factions_description_29</s>
    <s>data\ui\flags\britain</s>
-   <i>6</i>
+   <i>5</i>
   </rec>
   <rec type="FACTION_INFOS">
    <s>thirteen_colonies</s>
@@ -1316,13 +1316,13 @@
   </rec>
   <rec type="FACTION_INFOS">
    <s>scotland</s>
-   <s/>
+   <s>ui/portraits/european/Cards/king/young/053.tga</s>
    <no/>
    <no/>
    <i>44</i>
    <s>start_pos_factions_description_-681172810</s>
    <s>data\ui\flags\scotland</s>
-   <i>0</i>
+   <i>1</i>
   </rec>
   <rec type="FACTION_INFOS">
    <s>saxony</s>
@@ -1571,7 +1571,7 @@
    genoa=genoa
    mesopotamia=ottomans
    saxony=saxony
-   scotland=britain
+   scotland=scotland
    serbia=ottomans
    silesia=austria
    baluchistan=safavids

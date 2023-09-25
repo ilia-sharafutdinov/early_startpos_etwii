@@ -3,7 +3,7 @@
  <rec type="CAI_BDI_COMPONENT_PROPERTY_SET">
   <u>0</u>
  </rec>
- <u>7462</u><!-- Governor AI ID -->
+ <u>99910008</u><!-- Governor AI ID -->
  <flt>100.0</flt>
  <flt>100.0</flt>
  <flt>0.0</flt>
@@ -11,11 +11,11 @@
  <u>1</u>
  <no/>
  <u4_ary/>
- <u4_ary>14527 0</u4_ary><!-- BDI Information -->
+ <u4_ary/><!-- BDI Information -->
  <u>0</u>
- <u>1</u>
+ <u>0</u>
  <u4_ary/>
- <u4_ary>14527 7879</u4_ary><!-- BDI Information -->
+ <u4_ary/><!-- BDI Information -->
  <ary type="CAI_BDI_COMPONENT_BLOCK_OWNS"/>
  <u>0</u>
  <u>0</u>
@@ -26,11 +26,11 @@
  <no/>
  <u>0</u>
  <no/>
- <owned_direct>1265</owned_direct><!-- Faction AI ID -->
+ <owned_direct>1391</owned_direct><!-- Faction AI ID -->
  <rec type="CAI_GOVERNORSHIP">
-  <u>586390992</u><!-- Governor ID -->
+  <u>9910008</u><!-- Governor ID -->
   <u>34</u><!-- Theatre ID -->
-  <u>5420</u><!-- Character AI ID -->
-  <u4_ary>765 809</u4_ary><!-- Region AI IDs Of Regions Controlled By This Governor -->
+  <u>99900008</u><!-- Character AI ID -->
+  <u4_ary>843</u4_ary><!-- Region AI IDs Of Regions Controlled By This Governor -->
  </rec>
 </rec>

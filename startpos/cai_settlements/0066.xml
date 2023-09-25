@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <rec type="CAI_WORLD_SETTLEMENTS">
- <owned_direct>1265</owned_direct><!-- Faction AI ID -->
+ <owned_direct>1391</owned_direct><!-- Faction AI ID -->
  <cai_situated x="-19.84846305847168" y="395.8956298828125" region_id="843" theatre_id="34" area_id="11"/>
  <rec type="CAI_BDI_COMPONENT_PROPERTY_SET">
   <u>0</u>
@@ -40,7 +40,7 @@
  </rec>
  <rec type="CAI_SETTLEMENT">
   <u4_ary>2525 2526 2527 2528 2529 2530</u4_ary><!-- Building Slot AI IDs -->
-  <u>0</u><!-- Faction AI ID (only if capital) -->
+  <u>1391</u><!-- Faction AI ID (only if capital) -->
   <u>587295232</u><!-- Settlement ID -->
  </rec>
 </rec>
