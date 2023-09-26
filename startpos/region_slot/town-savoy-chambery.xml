@@ -24,7 +24,7 @@
   </rec>
   <rec type="BUILDING_MANAGER">
    <yes/>
-   <building health="100" name="craft_workshops_textiles" faction="piedmont_savoy" government="gov_absolute_monarchy"/>
+   <building health="100" name="school" faction="piedmont_savoy" government="gov_absolute_monarchy"/>
    <no/>
   </rec>
   <u>587115808</u><!-- Building Slot ID -->

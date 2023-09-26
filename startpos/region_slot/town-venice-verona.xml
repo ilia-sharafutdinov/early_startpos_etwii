@@ -24,7 +24,7 @@
   </rec>
   <rec type="BUILDING_MANAGER">
    <yes/>
-   <building health="100" name="coaching_inn" faction="venice" government="gov_republic"/>
+   <building health="100" name="school" faction="venice" government="gov_republic"/>
    <no/>
   </rec>
   <u>585880960</u><!-- Building Slot ID -->
