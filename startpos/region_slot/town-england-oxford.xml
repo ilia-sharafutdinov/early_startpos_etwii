@@ -24,7 +24,7 @@
   </rec>
   <rec type="BUILDING_MANAGER">
    <yes/>
-   <building health="100" name="rel_protestant_0" faction="britain" government="gov_constitutional_monarchy"/>
+   <building health="100" name="coaching_inn" faction="britain" government="gov_constitutional_monarchy"/>
    <no/>
   </rec>
   <u>586384264</u><!-- Building Slot ID -->
