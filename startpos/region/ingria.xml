@@ -61,9 +61,11 @@
  <ary type="RELIGIOUS_MISSION_BUILDING_ARRAY"/>
  <ary type="FORT_ARRAY"/>
  <resources_array>
+  russia_home_regions
   sweden_home_regions
   global
   europe
+  ingria
   galleys
  </resources_array>
  <s/><!-- Latest Constuction -->
