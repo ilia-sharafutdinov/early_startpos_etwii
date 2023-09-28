@@ -24,7 +24,7 @@
   </rec>
   <rec type="BUILDING_MANAGER">
    <yes/>
-   <building health="100" name="minor_magistrate" faction="genoa" government="gov_republic"/>
+   <building health="100" name="army_encampment" faction="genoa" government="gov_republic"/>
    <no/>
   </rec>
   <u>586253968</u><!-- Building Slot ID -->
