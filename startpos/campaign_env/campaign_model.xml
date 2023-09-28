@@ -132,6 +132,150 @@
    <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
   </rec>
   <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>austria</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>bavaria</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>britain</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>crimean</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>denmark</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>france</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>genoa</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>holland</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>maratha</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>mughal</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>ottoman</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>papal</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>pirates</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>poland</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>portugal</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>prussia</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>russia</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>safavid</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>savoy</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>spain</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>venice</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>scotland</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>sweden</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>unitedstates</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>malta</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>wurttemberg</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>saxony</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>westphalia</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>courland</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>georgia</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>virginia</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>hannover</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>morocco</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>barbary</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>mysore</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
+   <s>hessen</s>
+   <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
+  </rec>
+  <rec type="CULTURE_UNIT_CLASS_MAPPING">
    <s>indian</s>
    <bool_ary>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bool_ary>
   </rec>
