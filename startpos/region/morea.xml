@@ -40,7 +40,7 @@
  <s>europe</s><!-- Theatre -->
  <s>greece</s><!-- Emergent Nation -->
  <s>Greek Rebels</s><!-- Region Rebels -->
- <s>sc_european_south</s><!-- Region Culture For Types Of Buildings -->
+ <s>sc_patras</s><!-- Region Culture For Types Of Buildings -->
  <rec type="REGION_RECRUITMENT_MANAGER">
   <ary type="REGION_RECRUITMENT_ITEM_ARRAY"/>
   <no/>

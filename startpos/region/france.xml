@@ -57,7 +57,7 @@
  <s>europe</s><!-- Theatre -->
  <s>france</s><!-- Emergent Nation -->
  <s>French Rebels</s><!-- Region Rebels -->
- <s>sc_european_west</s><!-- Region Culture For Types Of Buildings -->
+ <s>sc_france</s><!-- Region Culture For Types Of Buildings -->
  <rec type="REGION_RECRUITMENT_MANAGER">
   <ary type="REGION_RECRUITMENT_ITEM_ARRAY"/>
   <no/>

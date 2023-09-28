@@ -52,7 +52,7 @@
  <s>europe</s><!-- Theatre -->
  <s>ottoman_rebels</s><!-- Emergent Nation -->
  <s>Anatolian Rebels</s><!-- Region Rebels -->
- <s>sc_mideast_islamic</s><!-- Region Culture For Types Of Buildings -->
+ <s>sc_ankara</s><!-- Region Culture For Types Of Buildings -->
  <rec type="REGION_RECRUITMENT_MANAGER">
   <ary type="REGION_RECRUITMENT_ITEM_ARRAY"/>
   <no/>

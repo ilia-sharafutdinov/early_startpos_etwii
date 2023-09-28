@@ -45,7 +45,7 @@
  <s>america</s><!-- Theatre -->
  <s>colombia</s><!-- Emergent Nation -->
  <s>Colombian Rebels</s><!-- Region Rebels -->
- <s>sc_european_south</s><!-- Region Culture For Types Of Buildings -->
+ <s>sc_bogota</s><!-- Region Culture For Types Of Buildings -->
  <rec type="REGION_RECRUITMENT_MANAGER">
   <ary type="REGION_RECRUITMENT_ITEM_ARRAY"/>
   <no/>

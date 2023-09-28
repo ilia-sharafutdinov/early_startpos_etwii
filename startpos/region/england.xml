@@ -55,7 +55,7 @@
  <s>europe</s><!-- Theatre -->
  <s>britain</s><!-- Emergent Nation -->
  <s>British Rebels</s><!-- Region Rebels -->
- <s>sc_european_west</s><!-- Region Culture For Types Of Buildings -->
+ <s>sc_britain</s><!-- Region Culture For Types Of Buildings -->
  <rec type="REGION_RECRUITMENT_MANAGER">
   <ary type="REGION_RECRUITMENT_ITEM_ARRAY"/>
   <no/>

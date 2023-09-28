@@ -39,7 +39,7 @@
  <s>america</s><!-- Theatre -->
  <s>amerind_rebels</s><!-- Emergent Nation -->
  <s>Arawakan Rebels</s><!-- Region Rebels -->
- <s>sc_european_south</s><!-- Region Culture For Types Of Buildings -->
+ <s>sc_cayenne</s><!-- Region Culture For Types Of Buildings -->
  <rec type="REGION_RECRUITMENT_MANAGER">
   <ary type="REGION_RECRUITMENT_ITEM_ARRAY"/>
   <no/>

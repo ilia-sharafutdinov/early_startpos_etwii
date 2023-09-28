@@ -39,7 +39,7 @@
  <s>india</s><!-- Theatre -->
  <s>persian_rebels</s><!-- Emergent Nation -->
  <s>Baluch Rebels</s><!-- Region Rebels -->
- <s>sc_mideast_islamic</s><!-- Region Culture For Types Of Buildings -->
+ <s>sc_zahedan</s><!-- Region Culture For Types Of Buildings -->
  <rec type="REGION_RECRUITMENT_MANAGER">
   <ary type="REGION_RECRUITMENT_ITEM_ARRAY"/>
   <no/>

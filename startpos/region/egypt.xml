@@ -47,7 +47,7 @@
  <s>europe</s><!-- Theatre -->
  <s>mamelukes</s><!-- Emergent Nation -->
  <s>Egyptian Rebels</s><!-- Region Rebels -->
- <s>sc_mideast_islamic</s><!-- Region Culture For Types Of Buildings -->
+ <s>sc_ottoman</s><!-- Region Culture For Types Of Buildings -->
  <rec type="REGION_RECRUITMENT_MANAGER">
   <ary type="REGION_RECRUITMENT_ITEM_ARRAY"/>
   <no/>

@@ -47,7 +47,7 @@
  <s>europe</s><!-- Theatre -->
  <s>prussia</s><!-- Emergent Nation -->
  <s>Brandenburger Rebels</s><!-- Region Rebels -->
- <s>sc_european_north</s><!-- Region Culture For Types Of Buildings -->
+ <s>sc_prussia</s><!-- Region Culture For Types Of Buildings -->
  <rec type="REGION_RECRUITMENT_MANAGER">
   <ary type="REGION_RECRUITMENT_ITEM_ARRAY"/>
   <no/>

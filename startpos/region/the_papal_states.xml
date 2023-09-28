@@ -46,7 +46,7 @@
  <s>europe</s><!-- Theatre -->
  <s>papal_states</s><!-- Emergent Nation -->
  <s>Italian Rebels</s><!-- Region Rebels -->
- <s>sc_european_south</s><!-- Region Culture For Types Of Buildings -->
+ <s>sc_papal</s><!-- Region Culture For Types Of Buildings -->
  <rec type="REGION_RECRUITMENT_MANAGER">
   <ary type="REGION_RECRUITMENT_ITEM_ARRAY"/>
   <no/>

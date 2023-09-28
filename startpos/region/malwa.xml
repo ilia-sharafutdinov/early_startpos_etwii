@@ -40,7 +40,7 @@
  <s>india</s><!-- Theatre -->
  <s>maratha_rebels</s><!-- Emergent Nation -->
  <s>Maratha Rebels</s><!-- Region Rebels -->
- <s>sc_indian_hindu</s><!-- Region Culture For Types Of Buildings -->
+ <s>sc_ujjain</s><!-- Region Culture For Types Of Buildings -->
  <rec type="REGION_RECRUITMENT_MANAGER">
   <ary type="REGION_RECRUITMENT_ITEM_ARRAY"/>
   <no/>
