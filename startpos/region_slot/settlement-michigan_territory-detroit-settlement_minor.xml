@@ -24,7 +24,7 @@
   </rec>
   <rec type="BUILDING_MANAGER">
    <yes/>
-   <building health="100" name="tribal_hunting_grounds" faction="iroquoi" government="gov_absolute_monarchy"/>
+   <building health="100" name="tribal_horse_breeder_gofa" faction="iroquoi" government="gov_absolute_monarchy"/>
    <no/>
   </rec>
   <u>581494768</u><!-- Building Slot ID -->
