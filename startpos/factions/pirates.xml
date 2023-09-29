@@ -9,7 +9,7 @@
    <i>0</i>
    <no/>
   </rec>
-  <s>pirates</s>
+  <s>pirate</s>
   <no/>
   <yes/><!-- Playable -->
   <no/>
@@ -39,7 +39,7 @@
  <xml_include path="government/pirates-gov_absolute_monarchy.xml"/>
  <xml_include path="family/pirates.xml"/>
  <i>585382808</i><!-- Faction ID -->
- <s>pirates</s><!-- Faction Name -->
+ <s>pirate</s><!-- Faction Name -->
  <s>Pirates</s><!-- On Screen Name -->
  <rec type="NAME_ALLOCATION_DETAILS">
   <u>67</u>

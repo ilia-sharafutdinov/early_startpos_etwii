@@ -1151,11 +1151,11 @@
     <cai_event_classes>
      type_new_manager_for_faction
      round_1
-     faction_pirates
+     faction_pirate
     </cai_event_classes>
    </rec>
    <rec type="CAI_HISTORY_EVENT_NEW_MANAGER_FOR_FACTION">
-    <asc>pirates</asc>
+    <asc>pirate</asc>
     <i>11</i>
    </rec>
   </rec>

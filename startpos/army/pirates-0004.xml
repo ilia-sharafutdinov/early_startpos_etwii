@@ -13,7 +13,7 @@
      <rec type="UNIT">
       <unit_key>brig</unit_key>
       <unit_history>summer 1700</unit_history>
-      <commander>pirates Thomas North</commander>
+      <commander>pirate Thomas North</commander>
       <traits/>
       <i>585458160</i>
       <u>78</u>
@@ -53,7 +53,7 @@
      <rec type="UNIT">
       <unit_key>brig</unit_key>
       <unit_history>summer 1700</unit_history>
-      <commander>pirates Christopher Bonny</commander>
+      <commander>pirate Christopher Bonny</commander>
       <traits/>
       <i>585458552</i>
       <u>78</u>
@@ -93,7 +93,7 @@
      <rec type="UNIT">
       <unit_key>sloop</unit_key>
       <unit_history>summer 1700</unit_history>
-      <commander>pirates Abraham de_Berry</commander>
+      <commander>pirate Abraham de_Berry</commander>
       <traits/>
       <i>585458944</i>
       <u>62</u>

@@ -13,7 +13,7 @@
      <rec type="UNIT">
       <unit_key>5th_rate_admiral</unit_key>
       <unit_history>summer 1700</unit_history>
-      <commander>pirates Piet Alvel</commander>
+      <commander>pirate Piet Alvel</commander>
       <traits/>
       <i>585463952</i>
       <u>130</u>
@@ -53,7 +53,7 @@
      <rec type="UNIT">
       <unit_key>xebec</unit_key>
       <unit_history>summer 1700</unit_history>
-      <commander>pirates Nathaniel Condon</commander>
+      <commander>pirate Nathaniel Condon</commander>
       <traits/>
       <i>585462384</i>
       <u>88</u>
@@ -93,7 +93,7 @@
      <rec type="UNIT">
       <unit_key>xebec</unit_key>
       <unit_history>summer 1700</unit_history>
-      <commander>pirates Olivier Halsey</commander>
+      <commander>pirate Olivier Halsey</commander>
       <traits/>
       <i>585462776</i>
       <u>88</u>
@@ -133,7 +133,7 @@
      <rec type="UNIT">
       <unit_key>xebec</unit_key>
       <unit_history>summer 1700</unit_history>
-      <commander>pirates Frederico Butler</commander>
+      <commander>pirate Frederico Butler</commander>
       <traits/>
       <i>585463168</i>
       <u>88</u>
@@ -173,7 +173,7 @@
      <rec type="UNIT">
       <unit_key>xebec</unit_key>
       <unit_history>summer 1700</unit_history>
-      <commander>pirates Guillaume Bunce</commander>
+      <commander>pirate Guillaume Bunce</commander>
       <traits/>
       <i>585463560</i>
       <u>88</u>

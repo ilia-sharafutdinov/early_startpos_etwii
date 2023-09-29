@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <rec type="VICTORY_CONDITION_OPTIONS">
- <s>pirates</s>
+ <s>pirate</s>
  <ary type="VICTORY_CONDITIONS_BLOCK">
   <rec type="VICTORY_CONDITIONS_BLOCK">
    <victory_conditions year="1799" region_count="20" prestige_victory="no" campaign_type="1 (Long)">

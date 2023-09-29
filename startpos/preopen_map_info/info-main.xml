@@ -836,7 +836,7 @@
       <i>0</i>
       <no/>
      </rec>
-     <s>pirates</s>
+     <s>pirate</s>
      <no/>
      <yes/><!-- Playable -->
      <no/>
@@ -1445,7 +1445,7 @@
    <i>3</i>
   </rec>
   <rec type="FACTION_INFOS">
-   <s>pirates</s>
+   <s>pirate</s>
    <s>ui/portraits/european/cards/king/young/058.tga</s>
    <yes/>
    <yes/>
@@ -1469,14 +1469,14 @@
    upper_louisiana=louisiana
    dutch_guyana=netherlands
    virginia=thirteen_colonies
-   trinidad_tobago=pirates
+   trinidad_tobago=pirate
    carolinas=thirteen_colonies
    windward_islands=france
    maine=thirteen_colonies
    new_andalusia=new_spain
    new_york=thirteen_colonies
    guatemala=new_spain
-   leeward_islands=pirates
+   leeward_islands=pirate
    algonquin_territory=iroquoi
    huron_territory=huron
    florida=spain

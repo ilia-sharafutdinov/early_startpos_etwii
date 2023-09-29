@@ -13,7 +13,7 @@
      <rec type="UNIT">
       <unit_key>galleon</unit_key>
       <unit_history>summer 1700</unit_history>
-      <commander>pirates Joseph Johnston</commander>
+      <commander>pirate Joseph Johnston</commander>
       <traits/>
       <i>585446168</i>
       <u>176</u>
@@ -53,7 +53,7 @@
      <rec type="UNIT">
       <unit_key>galleon_race_built</unit_key>
       <unit_history>summer 1700</unit_history>
-      <commander>pirates Phineas Kidd</commander>
+      <commander>pirate Phineas Kidd</commander>
       <traits/>
       <i>585445776</i>
       <u>56</u>
@@ -93,7 +93,7 @@
      <rec type="UNIT">
       <unit_key>sloop</unit_key>
       <unit_history>summer 1700</unit_history>
-      <commander>pirates Andrew Callis</commander>
+      <commander>pirate Andrew Callis</commander>
       <traits/>
       <i>585445384</i>
       <u>62</u>

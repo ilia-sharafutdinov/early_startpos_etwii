@@ -13,7 +13,7 @@
      <rec type="UNIT">
       <unit_key>5th_rate_admiral</unit_key>
       <unit_history>summer 1700</unit_history>
-      <commander>pirates Jack Gambi</commander>
+      <commander>pirate Jack Gambi</commander>
       <traits/>
       <i>585450368</i>
       <u>130</u>
@@ -53,7 +53,7 @@
      <rec type="UNIT">
       <unit_key>xebec</unit_key>
       <unit_history>summer 1700</unit_history>
-      <commander>pirates Juan Worley</commander>
+      <commander>pirate Juan Worley</commander>
       <traits/>
       <i>585449584</i>
       <u>88</u>
@@ -93,7 +93,7 @@
      <rec type="UNIT">
       <unit_key>xebec</unit_key>
       <unit_history>summer 1700</unit_history>
-      <commander>pirates Jan Speirdyke</commander>
+      <commander>pirate Jan Speirdyke</commander>
       <traits/>
       <i>585449976</i>
       <u>88</u>

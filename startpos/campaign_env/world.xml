@@ -1146,7 +1146,7 @@
    </rec>
   </rec>
   <rec type="SPYING_ARRAY">
-   <s>pirates</s>
+   <s>pirate</s>
    <rec type="CAMPAIGN_SPYING">
     <ary type="ARMY_DATA" version="0"/>
     <ary type="NAVY_DATA" version="0"/>

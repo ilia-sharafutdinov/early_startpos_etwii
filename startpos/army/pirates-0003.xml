@@ -13,7 +13,7 @@
      <rec type="UNIT">
       <unit_key>galleon_fluyt</unit_key>
       <unit_history>summer 1700</unit_history>
-      <commander>pirates Jean Clipperton</commander>
+      <commander>pirate Jean Clipperton</commander>
       <traits/>
       <i>585454264</i>
       <u>142</u>
@@ -53,7 +53,7 @@
      <rec type="UNIT">
       <unit_key>brig</unit_key>
       <unit_history>summer 1700</unit_history>
-      <commander>pirates Michael Blackburne</commander>
+      <commander>pirate Michael Blackburne</commander>
       <traits/>
       <i>585453872</i>
       <u>78</u>
@@ -93,7 +93,7 @@
      <rec type="UNIT">
       <unit_key>sloop</unit_key>
       <unit_history>summer 1700</unit_history>
-      <commander>pirates Samuel Gathenhielm</commander>
+      <commander>pirate Samuel Gathenhielm</commander>
       <traits/>
       <i>585454656</i>
       <u>62</u>
