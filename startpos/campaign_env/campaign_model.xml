@@ -307,11 +307,7 @@
  <yes/>
  <no/>
  <yes/>
- <ary type="OSMOSIS_CULTURES">
-  <rec type="OSMOSIS_CULTURES">
-   <s>european</s>
-  </rec>
- </ary>
+ <ary type="OSMOSIS_CULTURES"/>
  <u>103134</u>
  <flt>1.0</flt>
  <u>20</u>
