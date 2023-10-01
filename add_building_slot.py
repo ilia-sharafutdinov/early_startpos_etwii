@@ -220,10 +220,10 @@ template_building_slot_id = int(new_region_slot_soup.find('rec', {'type': 'REGIO
         .find('rec', {'type': 'SIEGEABLE_GARRISON_RESIDENCE'}) \
             .find('u').string)
 
-new_building_slot_id = template_building_slot_id + 1
+new_building_slot_id = template_building_slot_id + 400000000
 
 while found_in_all_files(unpacked_startpos_esf_path, f'{new_building_slot_id}', warn=verbose):
-    new_building_slot_id += 1
+    new_building_slot_id += 10000
 
 # Changing coordinates
 new_region_slot_soup = change_coordinates(new_region_slot_soup, base_coordinates, n_slots + 1, n_slots + 1)
