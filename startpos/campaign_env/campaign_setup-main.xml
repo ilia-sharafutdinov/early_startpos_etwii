@@ -846,7 +846,7 @@
   </ary>
  </rec>
  <rec type="CAMPAIGN_SETUP_OPTIONS">
-  <flt>1.0</flt>
+  <flt>0.2</flt>
   <no/>
   <rec type="CAMPAIGN_SETUP_INGAME_MODIFIABLES">
    <u>0</u>
