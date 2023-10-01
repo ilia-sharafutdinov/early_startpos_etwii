@@ -198,8 +198,8 @@
  <i>0</i><!-- Navy Upkeep -->
  <s>FULL</s><!-- Campaign AI Manager Behaviour (patch.pack) -->
  <s>non_euro</s><!-- Campaign AI Personalities (patch.pack) -->
+ <flag_and_colours path="data\ui\flags\maratha_monarchy" color1="#b56b1c" color2="#f9bb42" color3="#a56100"/>
  <flag_and_colours path="data\ui\flags\maratha" color1="#b56b1c" color2="#f9bb42" color3="#a56100"/>
- <flag_and_colours path="data\ui\flags\maratha_republic" color1="#b56b1c" color2="#f9bb42" color3="#a56100"/>
  <rec type="CAMPAIGN_BONUS_VALUES">
   <ary type="CAMPAIGN_BONUS_VALUE_BLOCK">
    <campaign_bonus_0 subtype="2" value="1.0" agent="Eastern_Scholar"/>
